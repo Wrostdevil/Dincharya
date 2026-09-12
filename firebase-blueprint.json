@@ -1,0 +1,60 @@
+{
+  "entities": {
+    "User": {
+      "path": "users/{userId}",
+      "fields": {
+        "uid": { "type": "string" },
+        "email": { "type": "string" },
+        "displayName": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "createdAt": { "type": "string" }
+      }
+    },
+    "Task": {
+      "path": "users/{userId}/tasks/{taskId}",
+      "fields": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "category": { "type": "string" },
+        "priority": { "type": "string" },
+        "completed": { "type": "boolean" },
+        "pomodorosEstimated": { "type": "number" },
+        "pomodorosCompleted": { "type": "number" },
+        "focusMinutesTotal": { "type": "number" },
+        "createdAt": { "type": "string" },
+        "dueDate": { "type": "string" },
+        "subtasks": { "type": "array" }
+      }
+    },
+    "FocusSession": {
+      "path": "users/{userId}/sessions/{sessionId}",
+      "fields": {
+        "id": { "type": "string" },
+        "taskId": { "type": "string" },
+        "taskTitle": { "type": "string" },
+        "durationMinutes": { "type": "number" },
+        "mode": { "type": "string" },
+        "timestamp": { "type": "string" },
+        "completed": { "type": "boolean" }
+      }
+    },
+    "Habit": {
+      "path": "users/{userId}/habits/{habitId}",
+      "fields": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "sanskritName": { "type": "string" },
+        "description": { "type": "string" },
+        "phase": { "type": "string" },
+        "timeRange": { "type": "string" },
+        "startHour": { "type": "number" },
+        "endHour": { "type": "number" },
+        "dosha": { "type": "string" },
+        "completed": { "type": "boolean" },
+        "benefit": { "type": "string" },
+        "icon": { "type": "string" }
+      }
+    }
+  }
+}
