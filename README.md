@@ -21,6 +21,7 @@
 ## 📖 Table of Contents
 
 - [About The Project](#-about-the-project)
+- [Screenshots & UI Showcase](#-screenshots--ui-showcase)
 - [Key Features](#-key-features)
   - [1. Notion-Style 31-Day Habit Tracker & Neuroplasticity Matrix](#1-notion-style-31-day-habit-tracker--neuroplasticity-matrix)
   - [2. Ayurvedic Circadian Routine (*Dincharya*)](#2-ayurvedic-circadian-routine-dincharya)
@@ -51,6 +52,40 @@ Modern productivity tools are often noisy, flat, and anxiety-inducing—inundati
 - **Physical Skeuomorphism**: Tactile neumorphic surfaces with realistic soft shadows and pressed-state mechanics.
 - **Antique Horology**: An authentic 1890s American mantel clock rendered in procedural SVG with live mechanical gear and pallet lever motion.
 - **Acoustic Science**: Procedural Web Audio API soundscapes (528 Hz Solfeggio, 432 Hz vagus nerve reset, binaural beats, and rain) that clear cortisol without streaming lag or audio ads.
+
+---
+
+## 📸 Screenshots & UI Showcase
+
+<div align="center">
+
+### 🏛️ Hero Landing Page
+*Interactive entry featuring the live SVG Vintage Waterbury mechanical clock, acoustic escapement audio, and circadian introduction.*
+
+<img src="./screenshots/Homepage.png" alt="Homepage" width="100%" />
+
+<br/><br/>
+
+| ⚡ Main Circadian Dashboard | 📊 Notion-Style Habit Tracker (31 Days) |
+|:---:|:---:|
+| <img src="./screenshots/Dashboard.png" alt="Dashboard" width="100%" /> | <img src="./screenshots/Habit%20tracker%20page.png" alt="Habit Tracker" width="100%" /> |
+| *Real-time circadian phase, quick habit checks & focus dial* | *31-day matrix with 21-day neuroplasticity adaptation milestones* |
+
+<br/>
+
+| ⏱️ Pomodoro & Deep Work Console | 📅 Monthly Activity Calendar |
+|:---:|:---:|
+| <img src="./screenshots/Focus%20timer.png" alt="Focus Timer" width="100%" /> | <img src="./screenshots/Calender.png" alt="Calendar" width="100%" /> |
+| *Custom intervals, tactile knobs & cortisol-clearing audio frequencies* | *Heatmap view of completed habits, tasks, and focus sessions* |
+
+<br/>
+
+| 📈 Performance & Productivity Analytics | 📝 Tactile Task Creation Modal |
+|:---:|:---:|
+| <img src="./screenshots/performance%20dashboard.png" alt="Performance Dashboard" width="100%" /> | <img src="./screenshots/Task%20creation.png" alt="Task Creation" width="100%" /> |
+| *Focus hours distribution, category breakdown & streak metrics* | *Prioritized task planning with Pomodoro estimates & checklist subtasks* |
+
+</div>
 
 ---
 
