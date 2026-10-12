@@ -62,27 +62,27 @@ Modern productivity tools are often noisy, flat, and anxiety-inducing—inundati
 ### 🏛️ Hero Landing Page
 *Interactive entry featuring the live SVG Vintage Waterbury mechanical clock, acoustic escapement audio, and circadian introduction.*
 
-<img src="./screenshots/Homepage.png" alt="Homepage" width="100%" />
+<img src="Homepage.png" alt="Homepage" width="100%" />
 
 <br/><br/>
 
 | ⚡ Main Circadian Dashboard | 📊 Notion-Style Habit Tracker (31 Days) |
 |:---:|:---:|
-| <img src="./screenshots/Dashboard.png" alt="Dashboard" width="100%" /> | <img src="./screenshots/Habit%20tracker%20page.png" alt="Habit Tracker" width="100%" /> |
+| <img src="Dashboard.png" alt="Dashboard" width="100%" /> | <img src="Habit%20tracker%20page.png" alt="Habit Tracker" width="100%" /> |
 | *Real-time circadian phase, quick habit checks & focus dial* | *31-day matrix with 21-day neuroplasticity adaptation milestones* |
 
 <br/>
 
 | ⏱️ Pomodoro & Deep Work Console | 📅 Monthly Activity Calendar |
 |:---:|:---:|
-| <img src="./screenshots/Focus%20timer.png" alt="Focus Timer" width="100%" /> | <img src="./screenshots/Calender.png" alt="Calendar" width="100%" /> |
+| <img src="Focus%20timer.png" alt="Focus Timer" width="100%" /> | <img src="Calender.png" alt="Calendar" width="100%" /> |
 | *Custom intervals, tactile knobs & cortisol-clearing audio frequencies* | *Heatmap view of completed habits, tasks, and focus sessions* |
 
 <br/>
 
 | 📈 Performance & Productivity Analytics | 📝 Tactile Task Creation Modal |
 |:---:|:---:|
-| <img src="./screenshots/performance%20dashboard.png" alt="Performance Dashboard" width="100%" /> | <img src="./screenshots/Task%20creation.png" alt="Task Creation" width="100%" /> |
+| <img src="performance%20dashboard.png" alt="Performance Dashboard" width="100%" /> | <img src="Task%20creation.png" alt="Task Creation" width="100%" /> |
 | *Focus hours distribution, category breakdown & streak metrics* | *Prioritized task planning with Pomodoro estimates & checklist subtasks* |
 
 </div>
